@@ -46,9 +46,7 @@ function myFunction(x) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hamburger Menu</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css1.css">
-    <link href="https://fonts.googleapis.com/css?family=Source+Cursive" rel="stylesheet">
+   
 </head>
 
 <body style="background-color:yellow">>
@@ -97,7 +95,7 @@ function myFunction(x) {
 
  <style type="text/css">
 p{
-font-family: Bookman Old Style;
+font-family: Times New Roman;
 border: 10px solid #73AD21;
 border-radius: 25px;
 
