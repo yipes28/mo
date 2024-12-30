@@ -71,7 +71,7 @@ function myFunction(x) {
 <div id="logo-img" alt="Logo image"></div>
 </a>
 <div class="navbar-brand">
-<a href="12.2w.html"><h1><left>Food,LLC</left></h1></a>
+<a href="12.2w.html"><h1><center>Food,LLC</center></h1></a>
 
 
 </p>
