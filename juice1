@@ -194,9 +194,9 @@ li {
 <div class="dropdown">
   <button class="dropbtn">Home</button>
   <div class="dropdown-content">
-  <a href="#">News</a>
-  <a href="#">Contact</a>
-  <a href="#">About</a>
+  <a href="#">Chicken</a>
+  <a href="#">Sushi</a>
+  <a href="#">Beef</a>
   </div>
 </div>
 
